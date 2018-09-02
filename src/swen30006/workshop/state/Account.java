@@ -24,6 +24,7 @@ public class Account {
 	}
 	
 	public void approval () {
+		Product product = new Product();
 		
 	}
 	
