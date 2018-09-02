@@ -1,5 +1,5 @@
 package swen30006.workshop.state;
 
-public class Driver {
+public class Customer {
 
 }
